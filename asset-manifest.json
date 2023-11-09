@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/zanellafernanda/movie-search.git/static/css/main.334bdeb1.css",
-    "main.js": "/zanellafernanda/movie-search.git/static/js/main.e8c35614.js",
-    "index.html": "/zanellafernanda/movie-search.git/index.html",
-    "static/media/search.svg": "/zanellafernanda/movie-search.git/static/media/search.eb0cf9050f69dad9f20ca2537fa04626.svg",
-    "main.334bdeb1.css.map": "/zanellafernanda/movie-search.git/static/css/main.334bdeb1.css.map",
-    "main.e8c35614.js.map": "/zanellafernanda/movie-search.git/static/js/main.e8c35614.js.map"
+    "main.css": "/movie-search.git/static/css/main.334bdeb1.css",
+    "main.js": "/movie-search.git/static/js/main.b2d5baab.js",
+    "index.html": "/movie-search.git/index.html",
+    "static/media/search.svg": "/movie-search.git/static/media/search.eb0cf9050f69dad9f20ca2537fa04626.svg",
+    "main.334bdeb1.css.map": "/movie-search.git/static/css/main.334bdeb1.css.map",
+    "main.b2d5baab.js.map": "/movie-search.git/static/js/main.b2d5baab.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.e8c35614.js"
+    "static/js/main.b2d5baab.js"
   ]
 }
