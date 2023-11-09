@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/movie-search.git/static/css/main.334bdeb1.css",
-    "main.js": "/movie-search.git/static/js/main.b2d5baab.js",
-    "index.html": "/movie-search.git/index.html",
-    "static/media/search.svg": "/movie-search.git/static/media/search.eb0cf9050f69dad9f20ca2537fa04626.svg",
-    "main.334bdeb1.css.map": "/movie-search.git/static/css/main.334bdeb1.css.map",
-    "main.b2d5baab.js.map": "/movie-search.git/static/js/main.b2d5baab.js.map"
+    "main.css": "/movie-search/static/css/main.334bdeb1.css",
+    "main.js": "/movie-search/static/js/main.25b1a019.js",
+    "index.html": "/movie-search/index.html",
+    "static/media/search.svg": "/movie-search/static/media/search.eb0cf9050f69dad9f20ca2537fa04626.svg",
+    "main.334bdeb1.css.map": "/movie-search/static/css/main.334bdeb1.css.map",
+    "main.25b1a019.js.map": "/movie-search/static/js/main.25b1a019.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.b2d5baab.js"
+    "static/js/main.25b1a019.js"
   ]
 }
