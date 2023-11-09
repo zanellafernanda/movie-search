@@ -31,6 +31,8 @@ const App = () => {
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           placeholder="Search for movies"
+          id="search-bar" 
+          name="search"
         />
         <img
           src={SearchIcon}
